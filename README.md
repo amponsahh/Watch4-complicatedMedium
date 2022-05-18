@@ -19,3 +19,5 @@ That doesn't stop you from trying it out on other wearables running at least and
   - HR updates every 10 mins (when still) regardless of watch defined settings. My apologies.   
   - in order to accommodate a comma at the appropriate places for step counting, a known byproduct is a leading zero and a comma below 999 steps. Again, this is due to a limitation of the platform and I'll be keeping an eye out for latest releases to rectify this. 
   - Step goal is locked to 15,000 steps. Once more, this is due to the Watch Face Studio project properties limitations; Supposedly this is an intentional best practice to respect and preserve user privacy.
+
+/minimal
